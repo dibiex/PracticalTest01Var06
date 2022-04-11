@@ -79,5 +79,11 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:text="Play" />
+
+        <Button
+            android:id="@+id/goto_activity_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Second Activity" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
